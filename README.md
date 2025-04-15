@@ -6,9 +6,9 @@ The model is trained on Himawari-8/9 Full Disk and Target Area data. The model h
 
 Currently this inference script is only for Himawari-8/9 Target Area. We are continuing to work on support for Full Disk.
 
-**License: AI-VIS license.**
+**License: Apache 2.0**
 
-AI-VIS license is modified from the Apache 2.0 license. Adding the clause that all generated images using AI-VIS that is publically available must be clearly marked as AI-VIS generated to avoid confusion with real visible imagery.
+Additional terms: All images generated using AI-VIS that are made publically available must be marked as AI-VIS generated to avoid confusion with real visible imagery.
 
 Paper: [arXiv:2401.11679](https://arxiv.org/abs/2401.11679)
 
