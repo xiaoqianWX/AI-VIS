@@ -12,7 +12,7 @@ Additional terms: All images generated using AI-VIS that are made publically ava
 
 Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cyclones Using Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10988561)
 
-```bibtex
+```bash
 @ARTICLE{10988561,
   author={Yao, Jinghuai and Du, Puyuan and Zhao, Yucheng and Wang, Yubo},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
