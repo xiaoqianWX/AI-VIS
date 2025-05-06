@@ -10,7 +10,23 @@ Currently this inference script is only for Himawari-8/9 Target Area. We are con
 
 Additional terms: All images generated using AI-VIS that are made publically available must be marked as AI-VIS generated to avoid confusion with real visible imagery.
 
-Paper: [arXiv:2401.11679](https://arxiv.org/abs/2401.11679)
+Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cyclones Using Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10988561)
+
+<details>
+<summary>Click to expand BibTeX</summary>
+
+```bibtex
+@ARTICLE{10988561,
+  author={Yao, Jinghuai and Du, Puyuan and Zhao, Yucheng and Wang, Yubo},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Simulating Nighttime Visible Satellite Imagery of Tropical Cyclones Using Conditional Generative Adversarial Networks}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-18},
+  keywords={Clouds;Monitoring;Cloud computing;Data models;Tropical cyclones;Spatial resolution;Satellites;Satellite broadcasting;Loss measurement;Earth;Clouds;tropical cyclone (TC);conditional generative adversarial network (CGAN);deep learning;visible (VIS);nighttime;AHI},
+  doi={10.1109/JSTARS.2025.3567074}
+}
 
 Dataset: [HuggingFace: Dapiya/aivis-dataset](https://huggingface.co/datasets/Dapiya/aivis-dataset)
 (Uploading)
