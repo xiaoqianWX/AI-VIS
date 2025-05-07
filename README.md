@@ -12,9 +12,6 @@ Additional terms: All images generated using AI-VIS that are made publically ava
 
 Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cyclones Using Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10988561)
 
-<details>
-<summary><strong>Show BibTeX</strong></summary>
-
 ```bibtex
 @ARTICLE{10988561,
   author  = {Yao, Jinghuai and Du, Puyuan and Zhao, Yucheng and Wang, Yubo},
@@ -25,8 +22,6 @@ Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cyclones Usin
   doi     = {10.1109/JSTARS.2025.3567074}
 }
 ```
-
-</details>
 
 Dataset: [HuggingFace: Dapiya/aivis-dataset](https://huggingface.co/datasets/Dapiya/aivis-dataset)
 (Uploading)
