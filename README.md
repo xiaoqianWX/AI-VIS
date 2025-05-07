@@ -10,7 +10,7 @@ Currently this inference script is only for Himawari-8/9 Target Area. We are con
 
 Additional terms: All images generated using AI-VIS that are made publically available must be marked as AI-VIS generated to avoid confusion with real visible imagery.
 
-Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cyclones Using Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10988561)
+Paper: [Simulating Nighttime Visible Satellite Imagery of Tropical Cyclones Using Conditional Generative Adversarial Networks](https://ieeexplore.ieee.org/document/10988561) (Early Accesss)
 
 ```bibtex
 @ARTICLE{10988561,
