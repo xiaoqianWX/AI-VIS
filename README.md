@@ -1,6 +1,6 @@
 # AI-VIS
 
-AI-VIS is a Condiitional GAN(CGAN) based model that simulates visible imagery from multiple IR channels of geostationary weather satellites during nighttime. 
+AI-VIS is a Conditional GAN(CGAN) based model that simulates visible imagery from multiple IR channels of geostationary weather satellites at night. 
 
 The model is trained on Himawari-8/9 Full Disk and Target Area data. The model has been tested on other modern satellites including GOES-R series and GK-2A. Support is expected in the future.
 
