@@ -65,7 +65,7 @@ Note: The package already includes a sample of data. If you want to test with an
 
 5. Run the inference script
 ```bash
-python test_aivis.py [--upscale] [--half precision]
+python test_aivis.py [--upscale] [--half-precision]
 ```
 Note: Upscaler model must be downloaded and placed into ./aivis/weights folder when doing --upscale
 
