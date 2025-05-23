@@ -24,6 +24,7 @@ class SCENE2DATA:
         self.lon = lon
         self.lat = lat
     
+    @staticmethod
     def _get_indices(georange, lat, lon):
         latmin, latmax, lonmin, lonmax = georange
         barr = (
